@@ -38,9 +38,11 @@ Loading the data:
 
 ├── images
 
-|   └── train
+|   └── metadata
 
-|   ├── test
+|   └── test
+
+|   ├── train
 
 |   ├── val
 
