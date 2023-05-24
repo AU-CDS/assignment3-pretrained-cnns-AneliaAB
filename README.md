@@ -50,7 +50,7 @@ Installation:
 
 Run the script:
 6. Navigate to the folder ```src``` of this projects repository by writing ```cd src``` in the terminal, assuming your current directory is assignment3-pretrained-cnns-AneliaAB
-7. Run the script by writing python ```pretrained.py``` in the terminal
+7. Run the script by writing python ```pretrained.py``` in the terminal 
 
 After installing and running the scripts, you should be able to see the results in the out folder.
 
